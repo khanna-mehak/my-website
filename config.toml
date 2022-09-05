@@ -1,5 +1,4 @@
-# Site settings
-baseURL = "https://khanna-mehak.netlify.app"
+baseURL = "https://khanna-mehak.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio website for Mehak Khanna"
 theme = "forty"
